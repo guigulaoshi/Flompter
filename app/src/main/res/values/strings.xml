@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Flompter</string>
+    <string name="close_editor_and_open_floating_window">Close editor and open floating window</string>
+    <string name="scrolling_speed">Scrolling speed</string>
+    <string name="font_size">Font size</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="edit">Edit</string>
+    <string name="close">Close</string>
+    <string name="pause">Pause</string>
+    <string name="play">Play</string>
+    <string name="please_enter_some_text">Please enter some text.</string>
+    <string name="overlay_permission_required">Overlay permission is required to show the floating window.</string>
+    <string name="default_prompt_text">"
+    Floating Prompter User Guide:
+    1. Enter your desired prompter content on the main screen.
+    2. Click the button at the bottom to open the floating window.
+    3. In the upper part of the floating window, you can drag to scroll the prompter.
+    4. In the control panel in the lower part of the floating window, you can adjust the scrolling speed and font size.
+    5. Click the "Play/Pause" button to control scrolling, click "Edit" to return to the main screen, and click "Close" to exit the application.
+
+    Test Content:
+    This is a floating prompter application used to provide prompts during speeches or readings.
+    You can enter text through the main interface and then open the floating window for display.
+    The upper part of the floating window displays the prompts and supports dragging to adjust the scrolling position.
+    The lower part of the floating window is the control panel, where you can adjust the scrolling speed, font size, and control play, pause, edit, and close.
+    This application is suitable for scenarios that require prompting, such as speeches, live broadcasts, recitations, etc.
+    "</string>
+</resources>
